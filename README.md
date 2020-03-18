@@ -1,2 +1,2 @@
 # Tic-Tac_Toe-DQN
-An implementation of Double DQN playing tic-tac-toe
+A Tensorflow 2 implementation of Double DQN playing tic-tac-toe
